@@ -22,8 +22,6 @@ train_data = pd.read_csv('https://archive.ics.uci.edu/ml/machine-learning-databa
 test_data = pd.read_csv('https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/satimage/sat.tst', sep=' ', header=None)
 data = pd.DataFrame(np.concatenate((train_data, test_data)))
 
-print(data[0:10])
-
 # Separating target value
 col_indexes = [index for index in range(36)]
 X = data[col_indexes]
