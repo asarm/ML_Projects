@@ -6,3 +6,6 @@ https://colab.research.google.com/drive/1eQjnEXwLypox0HWM3EHLbFw10xdF6hjl?usp=sh
 
 <b> Book Recommendation </b><br>
 https://colab.research.google.com/drive/1kP6WWwBdamrw0BQqrWrnH7ntJ5o1MRZY?usp=sharing
+
+<b> Movie Recommendation </b><br>
+https://colab.research.google.com/drive/1LbAMPExGkWO4H6v0hU6mIzLSxT5SvNEL#scrollTo=Qp_tRW-CxhD8
